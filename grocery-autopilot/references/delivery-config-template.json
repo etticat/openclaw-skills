@@ -1,0 +1,10 @@
+{
+  "address": "Your delivery address here",
+  "contact_name": "Your Name / Reception",
+  "phone": "+1...",
+  "instructions": "Leave at front door / reception desk",
+  "preferred_day": "monday",
+  "preferred_time": "morning",
+  "book_ahead_weeks": 2,
+  "notes": "Adjust preferred_day/time to match your schedule. book_ahead_weeks controls how far in advance to reserve delivery slots."
+}

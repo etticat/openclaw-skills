@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Example Person",
+    "category": "close_friend",
+    "channels": {
+      "whatsapp": "+1...",
+      "slack": "@handle",
+      "email": "person@example.com"
+    },
+    "last_contact_date": "2025-01-15",
+    "last_topic": "Talked about their new job",
+    "follow_ups_owed": ["Send that article they asked about"],
+    "what_they_care_about": "Rock climbing, career change, recently got a dog",
+    "dynamic": "Easy, warm. They tend to reach out first. Could be more reciprocal.",
+    "health": "🟢",
+    "notes": "Met at university. Lives nearby."
+  },
+  {
+    "name": "Partner",
+    "category": "partner",
+    "channels": {
+      "whatsapp": "+1..."
+    },
+    "last_contact_date": "2025-01-15",
+    "last_topic": "",
+    "follow_ups_owed": [],
+    "what_they_care_about": "Their work, the kids, quality time together",
+    "dynamic": "We talk often but it's always surface-level. Could go deeper.",
+    "health": "🟡",
+    "notes": "The daily partner check is the most important output of this skill."
+  },
+  {
+    "name": "Work Colleague",
+    "category": "colleague",
+    "channels": {
+      "slack": "@colleague",
+      "email": "colleague@company.com"
+    },
+    "last_contact_date": "2025-01-05",
+    "last_topic": "Sprint planning",
+    "follow_ups_owed": [],
+    "what_they_care_about": "Career growth, side projects, their dog",
+    "dynamic": "Good working relationship. Could be deeper.",
+    "health": "🟢",
+    "notes": ""
+  }
+]
